@@ -11,3 +11,4 @@
      pip install -r requirements.txt <br>
 
   4) Lastly Run `python3 server.py` to view project in browser on localhost:5000
+  5) One can also access this link https://real-estate-proj-2.onrender.com , but it can take upto a min to load
